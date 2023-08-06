@@ -1,0 +1,51 @@
+.name-font {
+    font-family: 'Dancing Script', cursive;
+    font-size: 2.5rem;
+}
+
+.color-badge {
+    background-color: #798098;
+
+}
+
+.img {
+    width: 300px;
+    max-height: 300px;    
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+
+}
+
+.profile {
+    object-position: center;
+    border-width: 1px;
+    border-color: #a7c6e5;
+    border-style: solid;
+
+}
+
+.background-card {
+    margin-left: auto;
+    margin-right: auto;   
+    background-position: center center;
+    background: radial-gradient(circle, #f9fbfc 20%, #c2ccd3);    
+}
+
+.btn-github-color {
+    border-color: #6999b4;
+    background-color: #5c8ea5;
+}
+
+#items-footer a i {
+    font-size: large;    
+    color: #5c8ea5;
+}
+
+.btn-github-color:hover{
+    opacity: 80%;
+    background-color: #5c8ea5 !important;
+}
+#items-footer a i:hover{
+    font-size: x-large;
+}
